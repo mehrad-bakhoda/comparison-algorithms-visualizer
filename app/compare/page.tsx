@@ -16,7 +16,7 @@ export default function ComparePage() {
     <div className={`min-h-screen bg-background text-foreground ${isRTL ? 'rtl' : 'ltr'}`} dir={isRTL ? 'rtl' : 'ltr'}>
       {/* Header */}
       <header className="border-b border-border sticky top-0 z-50 bg-background/95 backdrop-blur">
-        <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between gap-4">
+  <div className="max-w-7xl mx-auto px-4 py-4 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div>
             <h1 className="text-3xl font-bold text-primary">{t.compare.title}</h1>
             <p className="text-sm text-muted-foreground">
@@ -30,7 +30,6 @@ export default function ComparePage() {
             <Link href="/docs">
               <Button variant="outline" size="sm">{t.documentation.title}</Button>
             </Link>
-            <LanguageSwitcher language={language} onLanguageChange={setLanguage} />
           </div>
         </div>
       </header>
