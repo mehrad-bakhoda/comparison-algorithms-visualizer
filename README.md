@@ -8,12 +8,12 @@ This project is designed for students, developers, and researchers who want to u
 
 ## Features
 
-* Documentation section for each algorithm
-* Comparison section to evaluate algorithms side-by-side
-* Step-by-step visualizations of algorithm execution
-* Focused on learning through interaction
-* Clean, minimal, responsive UI
-* Built with Next.js for performance and scalability
+- Documentation section for each algorithm
+- Comparison section to evaluate algorithms side-by-side
+- Step-by-step visualizations of algorithm execution
+- Focused on learning through interaction
+- Clean, minimal, responsive UI
+- Built with Next.js for performance and scalability
 
 ---
 
@@ -25,10 +25,10 @@ A greedy compression algorithm that builds an optimal prefix tree based on chara
 
 Visualization includes:
 
-* Frequency table generation
-* Priority queue evolution
-* Tree construction
-* Final binary codes per symbol
+- Frequency table generation
+- Priority queue evolution
+- Tree construction
+- Final binary codes per symbol
 
 ---
 
@@ -38,9 +38,9 @@ A top-down compression method that recursively divides symbols into two groups b
 
 Visualization includes:
 
-* Sorted probability table
-* Recursive splitting process
-* Code assignment per recursion
+- Sorted probability table
+- Recursive splitting process
+- Code assignment per recursion
 
 ---
 
@@ -50,9 +50,9 @@ An extension of Shannon–Fano coding that uses cumulative probabilities to gene
 
 Visualization includes:
 
-* Cumulative distribution values
-* Binary expansion process
-* Final encoded outputs
+- Cumulative distribution values
+- Binary expansion process
+- Final encoded outputs
 
 ---
 
@@ -62,9 +62,9 @@ A dictionary-based compression technique that dynamically builds patterns from t
 
 Visualization includes:
 
-* Window buffer updates
-* Dictionary growth
-* Token generation steps
+- Window buffer updates
+- Dictionary growth
+- Token generation steps
 
 ---
 
@@ -74,9 +74,9 @@ Graph-based algorithm that attempts to find a path or cycle visiting each vertex
 
 Visualization includes:
 
-* Graph node exploration
-* Backtracking steps
-* Valid/invalid path detection
+- Graph node exploration
+- Backtracking steps
+- Valid/invalid path detection
 
 ---
 
@@ -86,10 +86,10 @@ Visualization includes:
 
 Each algorithm has its own documentation page containing:
 
-* Conceptual explanation
-* Mathematical intuition
-* Step-by-step breakdown
-* Example inputs and outputs
+- Conceptual explanation
+- Mathematical intuition
+- Step-by-step breakdown
+- Example inputs and outputs
 
 This allows users to understand theory before interacting with visualization.
 
@@ -99,11 +99,11 @@ This allows users to understand theory before interacting with visualization.
 
 The comparison view allows users to analyze algorithms side-by-side based on:
 
-* Time complexity
-* Space complexity
-* Compression efficiency (where applicable)
-* Execution steps
-* Practical use cases
+- Time complexity
+- Space complexity
+- Compression efficiency (where applicable)
+- Execution steps
+- Practical use cases
 
 This helps learners develop a deeper intuition about trade-offs.
 
@@ -113,10 +113,10 @@ This helps learners develop a deeper intuition about trade-offs.
 
 Each algorithm includes a custom visualization system that:
 
-* Animates each step clearly
-* Highlights active elements (nodes, symbols, edges, buffers)
-* Shows transitions between states
-* Makes abstract processes tangible
+- Animates each step clearly
+- Highlights active elements (nodes, symbols, edges, buffers)
+- Shows transitions between states
+- Makes abstract processes tangible
 
 The goal is not just to show results, but to teach the algorithm visually.
 
@@ -124,10 +124,10 @@ The goal is not just to show results, but to teach the algorithm visually.
 
 ## Built With
 
-* Next.js – React framework for production
-* TypeScript – Type safety and maintainability
-* Tailwind CSS – Utility-first modern styling
-* Custom visualization components – Built without heavy external chart libraries
+- Next.js – React framework for production
+- TypeScript – Type safety and maintainability
+- Tailwind CSS – Utility-first modern styling
+- Custom visualization components – Built without heavy external chart libraries
 
 ---
 
@@ -150,11 +150,11 @@ http://localhost:3000
 
 ## Target Audience
 
-* Computer science students
-* Algorithm learners
-* Educators and instructors
-* Developers preparing for interviews
-* Anyone curious about how algorithms really work
+- Computer science students
+- Algorithm learners
+- Educators and instructors
+- Developers preparing for interviews
+- Anyone curious about how algorithms really work
 
 ---
 
@@ -164,9 +164,9 @@ http://localhost:3000
 
 This project focuses on making algorithm learning:
 
-* Visual instead of abstract
-* Interactive instead of passive
-* Intuitive instead of intimidating
+- Visual instead of abstract
+- Interactive instead of passive
+- Intuitive instead of intimidating
 
 ---
 
@@ -176,10 +176,10 @@ Contributions are welcome.
 
 You can help by:
 
-* Adding new algorithms
-* Improving visualizations
-* Enhancing UI/UX
-* Fixing bugs or improving performance
+- Adding new algorithms
+- Improving visualizations
+- Enhancing UI/UX
+- Fixing bugs or improving performance
 
 ---
 
@@ -191,8 +191,8 @@ This project is open-source and available under the MIT License.
 
 If you would like, I can also help you add:
 
-* Badges (build, license, version)
-* Screenshots section
-* Demo link section
-* Academic-style documentation
-* GitHub Pages deployment guide
+- Badges (build, license, version)
+- Screenshots section
+- Demo link section
+- Academic-style documentation
+- GitHub Pages deployment guide
